@@ -1,12 +1,3 @@
-%/////////////////////////////////////////////////////////////////////////%
-%                                                                         %
-%   - Name : Sim_Parameters.m                                             %
-%   - Simulation Parameters are defined.                                  %
-%                                                                         %
-%                               - Created by C. H. Lee, 12/10/2018        %
-%                                                                         %
-%/////////////////////////////////////////////////////////////////////////%
-
 %.. Global Variables
 
     global  UNIT_RAD2DEG    UNIT_DEG2RAD    UNIT_GRAV       UNIT_HP2W   
