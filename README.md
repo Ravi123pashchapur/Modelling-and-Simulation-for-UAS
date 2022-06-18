@@ -21,8 +21,11 @@
 ![1](https://user-images.githubusercontent.com/56997905/174439071-fda9266a-5d1b-450a-9476-cf30b93d4883.JPG)
 
 ---> Step 4:- Stability Anlaysis of the model.
+
+
 ---> Step 5:- Designing an Controller 
---> Obtaining results with  disturbance rejection
+
+
 
 
 
